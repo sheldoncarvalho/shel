@@ -22,7 +22,7 @@ public class Pattern {
 		for(int c:a) {
 			System.out.println(c);
 
-//test
+//test;;
 		}
 	}
 }
